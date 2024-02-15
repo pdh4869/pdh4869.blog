@@ -5,3 +5,6 @@
 
 ## 240215.2 
 - [ ] deploy fly.io
+
+## 240215.3 
+- [ ] copy dockerfile
